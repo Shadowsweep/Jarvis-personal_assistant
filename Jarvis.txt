@@ -1,0 +1,14 @@
+﻿Let's start the process:
+The basic idea behind this code is that you will give command to the machine and it will generate results accordingly. It is simple and easy to use 
+Source : yt
+
+
+Steps:
+1. Import all required libraries using pip install
+* pip install pyttsx3
+* pip install datetime
+* Pip install stmplib  
+2. Now we use sapi 5 for voices offered by microsoft 
+3. Making speak commands
+4. Adding strings which can be recognized by the code on command
+5. And this is done now you can add more elements to it
